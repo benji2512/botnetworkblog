@@ -1,0 +1,36 @@
+baseURL = "http://209.97.142.51"
+languageCode = "en-us"
+title = "ChatBot Network"
+theme = "hermit"
+
+[author]
+  name = "Ben Clarke"
+
+[params]
+
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  homeSubtitle = "A network of bots for students to get answers quickly"
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+
+  [[params.social]]
+    name = "gitlab"
+    url = "https://github.com/benji2512"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 20
+                       
