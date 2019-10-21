@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://botnetworkblog.netlify.com/"
 languageCode = "en-us"
 title = "ChatBot Network"
 theme = "hermit"
