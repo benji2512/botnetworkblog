@@ -17,7 +17,6 @@ theme = "hermit"
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
-  Currently the code is only available internally in DCU as we develop it.
   [[params.social]]
     name = "gitlab"
     url = "https://gitlab.computing.dcu.ie/carneyc9/2020-ca326-studentbot"
