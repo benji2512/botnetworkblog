@@ -1,5 +1,5 @@
 ---
-title: "FinallyFunctional"
+title: "Finally Functional"
 date: 2020-02-21T11:31:33Z
 draft: false
 comments: false
